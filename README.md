@@ -9,5 +9,5 @@ This plugin is based on Color Animations by John Resig. It fixes a major bug and
 
 This plugin also adds rgba-colors, so now you can animate the transparency of the background and foreground text independently. Beware that Internet Explorer 8 and earlier don't support rgba-colors.
 
-[github](https://github.com/edwinm/Color-animation-jQuery-plugin)
+[github](https://github.com/edwinm/Color-animation-jQuery-plugin),
 [website](http://www.bitstorm.org/jquery/color-animation)
