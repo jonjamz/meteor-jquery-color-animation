@@ -1,0 +1,10 @@
+{
+  "name": "jquery-color-animation",
+  "description": "jQuery plugin that adds color capability to $.animate()",
+  "homepage": "http://www.bitstorm.org/jquery/color-animation/",
+  "author": "jonjamz",
+  "version": "1.6.0",
+  "git": "https://github.com/jonjamz/meteor-jquery-color-animation.git",
+  "packages": {
+  }
+}

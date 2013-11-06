@@ -1,0 +1,3 @@
+[submodule "lib/Color-animation-jQuery-plugin"]
+	path = lib/Color-animation-jQuery-plugin
+	url = https://github.com/edwinm/Color-animation-jQuery-plugin.git
