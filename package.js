@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "A jQuery plugin that adds color capability to $.animate()"
+  summary: "jQuery plugin that adds color capability to $.animate()"
 });
 
 Package.on_use(function (api) {

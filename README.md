@@ -1,6 +1,6 @@
 jQuery Color Animation for Meteorite
 ====================================
-The Meteorite package for Color Animation, a jQuery plugin by Edwin Martin
+Meteorite package for Color Animation, a jQuery plugin by Edwin Martin
 that adds color capability to $.animate().
 
 From the website:
